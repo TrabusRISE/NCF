@@ -10,6 +10,43 @@ Downloads are available in kml, shp, gdb, or csv formats
 Note: shapefiles cut off field names to 10 characters, so the geojson provided here might be more useful
 
 ## Changelog
+
+### 8/9/2021
+Expanded the following reaches to cover the whole river and meet nearest neighbor:
+CEMVN_MD_01_BRF_01
+CEMVN_MD_01_BRF_02
+CEMVN_MD_04_RED_01
+CEMVN_MD_06_SDP_01
+CEMVN_MD_08_MED_01
+CEMVN_MD_10_GRA_01
+CEMVN_MD_13_GOU_01
+CEMVN_MD_19_PHP_01
+CEMVN_MD_29_RIB_01
+CEMVN_MD_30_BEL_01
+CEMVN_MD_48_FRV_01
+CEMVN_MD_54_NO1_01
+CEMVN_MD_54_NO1_02
+CEMVN_MD_54_NO1_03
+CEMVN_MD_56_NO3_01
+CEMVN_MD_69_JSB_01
+CEMVN_MD_73_ALI_01
+CEMVN_MD_97_VEN_01
+CEMVN_MD_16_ALH_01
+CEMVN_MD_22_SMB_01
+
+Deleted the following duplicate reaches:
+CEMVN_MR_54_NO1_01
+CEMVN_MR_54_NO1_02
+CEMVN_MR_54_NO1_03
+CEMVN_MR_56_NO3_01
+CEMVN_MR_56_NO3_02
+CEMVN_MR_56_NO3_03
+CEMVN_MR_56_NO3_04
+CEMVN_MR_56_NO3_05
+CEMVN_MR_56_NO3_06
+
+Corrected mileage start and end points
+
 ### 3/10/2021
 - Combined duplicate/split reaches into a single reach. Includes:  
 CELRH_KA_HD_WIN_26  
