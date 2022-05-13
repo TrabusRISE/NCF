@@ -11,6 +11,10 @@ Note: shapefiles cut off field names to 10 characters, so the geojson provided h
 
 ## Changelog
 
+### 5/13/2022
+- Added miles to TN reaches
+- added some reaches from harmonized waterway plan along Atchafalaya, GIWW West Alternate Route through Port Allen, and GIWW East
+
 ### 8/9/2021
 Expanded the following reaches to cover the whole river and meet nearest neighbor:
 CEMVN_MD_01_BRF_01
